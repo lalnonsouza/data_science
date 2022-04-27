@@ -9,7 +9,7 @@
 # Lalnon Souza
 <sub>Firefighter and data science enthusiast</sub>
 
-As a Military Firefighter I developed characteristics such as quick thinking, discipline, ability to work in a team and under pressure that I use in the study and application of Data Science and Machine Learning.
+As a Military Firefighter I developed characteristics such as quick thinking, discipline, ability to work under pressure that I use in the study and application of Data Science and Machine Learning.
 
 **Background in:** Python, Machine Learning.
 
