@@ -7,22 +7,16 @@
 </p>
 
 # Lalnon Souza
-<sub>Firefighter and data science enthusiast</sub>
 
-As a Military Firefighter I developed characteristics such as quick thinking, discipline, ability to work under pressure that I use in the study and application of Data Science and Machine Learning.
-
-**Background in:** Python, Machine Learning.
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/lalnonsouza)
-* [Medium](https://www.medium.com)
+I'm a Military Firefighter and Data Science enthusiast. I combine analytical skills, the ability to work in team environments, and attention to detail, even under pressure. I've been studying the data science field developing critical thinking and problem-solving skills.
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+**Background in:** Python, Machine Learning and Military trainning.
 
-* **Desafio 1 do DSNP 3.0:** https://bit.ly/2L2cMwy
-* **Desafio do Titanic:** https://bit.ly/2Li5pzY
+## Projects:
+Some of the projects I worked on
+* [Airbnb Data Analysis - City of Boston/MA](https://bit.ly/3NqzQTE)
+
 
 ---
 
