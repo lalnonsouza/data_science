@@ -8,7 +8,7 @@
 
 # Lalnon Souza
 
-I'm a Military Firefighter and Data Science enthusiast. I combine analytical skills, the ability to work in team environments, and attention to detail, even under pressure. I am studying data science and have been developing critical thinking and problem solving skills.
+I'm a Firefighter and Data Science enthusiast. I combine analytical skills, the ability to work in team environments, and attention to detail, even under pressure. I am studying data science and have been developing critical thinking and problem solving skills.
 
 **Background in:** Python, Machine Learning and Military trainning.
 
